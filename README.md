@@ -1,41 +1,50 @@
 ﻿# CarRentalSystem
 
-## About This Project
-I built this project as part of my learning and practice journey. It focuses on vehicle listing, booking flow, and rental business logic, desktop UI interactions with forms and events while improving how I organize code and structure features.
+## Project Overview
+I built this project as part of my practical development journey. This README explains what I implemented, how the project is structured, and how to run it locally.
 
-## What I Implemented
-- I implemented vehicle listing, booking flow, and rental business logic.
-- I implemented desktop UI interactions with forms and events.
-- I organized the project to keep logic clearer and easier to maintain.
+## What This Project Does
+- Application bootstrap and startup flow.
+- User interface screens/components and interaction handling.
 
 ## Tech Stack
 - C# / .NET
 
-## Project Structure Highlights
-- README.md
-- Program.cs
-- packages/Guna.UI2.WinForms.2.0.4.6/.signature.p7s
-- packages/Guna.UI2.WinForms.2.0.4.6/Guna.UI2.WinForms.2.0.4.6.nupkg
-- packages/Guna.UI2.WinForms.2.0.4.6/LICENSE.txt
-- packages/Guna.UI2.WinForms.2.0.4.6/README.md
-- packages/Guna.UI2.WinForms.2.0.4.6/icon.png
-- packages/Guna.UI2.WinForms.2.0.4.6/lib/net40/Guna.UI2.dll
-- packages/Guna.UI2.WinForms.2.0.4.6/lib/net45/Guna.UI2.dll
-- packages/Guna.UI2.WinForms.2.0.4.6/lib/net461/Guna.UI2.dll
-- packages/Guna.UI2.WinForms.2.0.4.6/lib/net472/Guna.UI2.dll
-- packages/Guna.UI2.WinForms.2.0.4.6/lib/net48/Guna.UI2.dll
+## Prerequisites
+- .NET SDK (recommended: latest LTS)
+- Visual Studio 2022 (for solution-based desktop projects)
 
-## How To Run
-1. Open the `.sln` file in Visual Studio.
-2. Restore/build the solution.
-3. Run the startup project from Visual Studio.
+## Setup And Run
+1. Open the `.sln` file in Visual Studio 2022.
+2. Restore and build the solution.
+3. Select startup project and run (`F5`).
 
-## What I Learned
-- I practiced building features end-to-end, from structure to execution.
-- I improved code organization and readability choices.
-- I strengthened my debugging and iteration workflow.
+## Module Breakdown (Based On Code)
+- Scanned on: 2026-03-26
+- Module entries listed: 15
+- $mf: Configuration and environment setup.
+- $mf: Application entry point and bootstrap logic.
+- $mf: User interface structure and interaction behavior.
+- $mf: User interface structure and interaction behavior.
+- $mf: User interface structure and interaction behavior.
+- $mf: User interface structure and interaction behavior.
+- $mf: User interface structure and interaction behavior.
+- $mf: User interface structure and interaction behavior.
+- $mf: User interface structure and interaction behavior.
+- $mf: User interface structure and interaction behavior.
+- $mf: User interface structure and interaction behavior.
+- $mf: User interface structure and interaction behavior.
+- $mf: User interface structure and interaction behavior.
+- $mf: User interface structure and interaction behavior.
+- $mf: User interface structure and interaction behavior.
 
-## Next Improvements
-- Add deeper documentation for each module and workflow.
-- Add tests for the most critical flows.
-- Refine UX/UI and error handling where needed.
+## Screenshots
+- docs/screenshots/home.png (placeholder)
+- docs/screenshots/feature-1.png (placeholder)
+- docs/screenshots/feature-2.png (placeholder)
+- docs/screenshots/workflow.png (placeholder)
+
+## Future Improvements
+- Expand test coverage for critical modules.
+- Improve validation, error handling, and edge-case handling.
+- Add real screenshots and architecture diagram.
