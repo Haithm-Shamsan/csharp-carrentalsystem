@@ -1,45 +1,19 @@
 ﻿# CarRentalSystem
 
-## Overview
-This repository was organized and uploaded from a local project workspace.
+## About This Project
+I built this project as part of my learning and practice journey. It focuses on vehicle listing, booking flow, and rental business logic, desktop UI interactions with forms and events while improving how I organize code and structure features.
 
-## Repository Stats
-- GitHub repo: Haithm-Shamsan/csharp-carrentalsystem
-- Scan date: 2026-03-26
-- Total tracked files scanned: 27
-- Text files fully read: 18
-- Binary or non-text files: 9
-- Approximate text line count: 25392
+## What I Implemented
+- I implemented vehicle listing, booking flow, and rental business logic.
+- I implemented desktop UI interactions with forms and events.
+- I organized the project to keep logic clearer and easier to maintain.
 
-## File Types
-- .dll: 8 files
-- .cs: 6 files
-- .config: 2 files
-- .resx: 2 files
-- .settings: 1 files
-- .sln: 1 files
-- .txt: 1 files
-- .nupkg: 1 files
+## Tech Stack
+- C# / .NET
 
-## Getting Started
-- Open solution in Visual Studio and run from IDE
-- Or build with .NET CLI: dotnet build
-
-## Project File Sample
-- .gitignore
-- App.config
-- CarRentalSystem.csproj
-- CarRentalSystem.sln
+## Project Structure Highlights
+- README.md
 - Program.cs
-- Properties/AssemblyInfo.cs
-- Properties/Resources.Designer.cs
-- Properties/Resources.resx
-- Properties/Settings.Designer.cs
-- Properties/Settings.settings
-- frmLogin.Designer.cs
-- frmLogin.cs
-- frmLogin.resx
-- packages.config
 - packages/Guna.UI2.WinForms.2.0.4.6/.signature.p7s
 - packages/Guna.UI2.WinForms.2.0.4.6/Guna.UI2.WinForms.2.0.4.6.nupkg
 - packages/Guna.UI2.WinForms.2.0.4.6/LICENSE.txt
@@ -50,10 +24,18 @@ This repository was organized and uploaded from a local project workspace.
 - packages/Guna.UI2.WinForms.2.0.4.6/lib/net461/Guna.UI2.dll
 - packages/Guna.UI2.WinForms.2.0.4.6/lib/net472/Guna.UI2.dll
 - packages/Guna.UI2.WinForms.2.0.4.6/lib/net48/Guna.UI2.dll
-- packages/Guna.UI2.WinForms.2.0.4.6/lib/net6.0-windows7.0/Guna.UI2.dll
-- packages/Guna.UI2.WinForms.2.0.4.6/lib/net7.0-windows7.0/Guna.UI2.dll
-- packages/Guna.UI2.WinForms.2.0.4.6/lib/netcoreapp3.1/Guna.UI2.dll
 
-## Notes
-- This README was auto-generated after scanning repository files.
-- You can customize this file with project purpose, screenshots, and usage details.
+## How To Run
+1. Open the `.sln` file in Visual Studio.
+2. Restore/build the solution.
+3. Run the startup project from Visual Studio.
+
+## What I Learned
+- I practiced building features end-to-end, from structure to execution.
+- I improved code organization and readability choices.
+- I strengthened my debugging and iteration workflow.
+
+## Next Improvements
+- Add deeper documentation for each module and workflow.
+- Add tests for the most critical flows.
+- Refine UX/UI and error handling where needed.
